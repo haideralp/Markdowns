@@ -42,10 +42,10 @@ Pepper
 
 #### How to add links to images in Markdown?
 To create a link on an image, you must write the code for the Markdown image inside square brackets and then provide the URL in parenthesis.
-[![Image alt text](Image URL)](URL)
+"[![Image alt text](Image URL)](URL)"
 
 ### How to add links in Markdown?
 In Markdown, links are created by specifying three things, link text, URL and title text. The reason for doing this is that in HTML, you define these three things while adding links to web pages.
-[link text](URL 'title text')
+"[link text](URL 'title text')"
 OR
-[link text](URL "title text")
+"[link text](URL "title text")"
